@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">examle22</string>
+    <string name="select_your_favourite_car"> select favourite car</string>
+    <string name="submit">Submit</string>
+    <string-array name="cars">
+        <item>xxxxx</item>
+        <item>yyyyy</item>
+        <item>zzzzz</item>
+        <item>mmmmm</item>
+        <item>nnnnn </item>
+    </string-array>
+
+</resources>
